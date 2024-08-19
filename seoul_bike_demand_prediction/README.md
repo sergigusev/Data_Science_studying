@@ -1,6 +1,6 @@
 # Задание к финальному проекту по блоку классического ML
 
-Работаем с [данными](https://github.com/sergigusev/Datasets/raw/main/seoul_bike_data.csv) сервиса проката велосипедов в Корее за год.
+Работаем с [данными](https://github.com/sergigusev/Datasets/blob/main/seoul_bike_data.csv) сервиса проката велосипедов в Корее за год.
 
 Описание данных:
 - Date - дата;
