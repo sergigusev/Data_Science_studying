@@ -7,6 +7,8 @@ _______________________________________________
 
 #### ⚡ Дополнительно:
 1. [Python for AI basic](https://github.com/sergigusev/Data_Science_studying/blob/main/IT_certificates/python%20for%20AI%20basic.pdf)
+2. [Python Generation basic](https://github.com/sergigusev/Data_Science_studying/blob/main/IT_certificates/Python%20Generation%20basic.pdf)
+
 ______________________________
 #### 📚 Книги:
 1. Простой Python: Билл Лобанович
