@@ -9,6 +9,7 @@ _______________________________________________
 1. [Python for AI basic](https://github.com/sergigusev/Data_Science_studying/blob/main/IT_certificates/python%20for%20AI%20basic.pdf)
 2. [Python Generation basic](https://github.com/sergigusev/Data_Science_studying/blob/main/IT_certificates/Python%20Generation%20basic.pdf)
 3. [Pandas for Data Analysis](https://github.com/sergigusev/Data_Science_studying/blob/main/IT_certificates/Pandas%20for%20Data%20Analysis.pdf)
+4. [SQL for Data Analysis](https://github.com/sergigusev/Data_Science_studying/blob/main/IT_certificates/SQL%20for%20Data%20Analysis.pdf)
 ______________________________
 #### 📚 Книги:
 1. Простой Python: Билл Лобанович
